@@ -1,0 +1,13 @@
+[package]
+name = "server"
+version = "0.1.0"
+authors = ["Eddie <eddiepie@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-rt = "0.2.2" # Runtime
+actix-web = "1.0"
+actix-files = "0.1.4"
+env_logger = "0.5"

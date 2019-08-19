@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+
+# Clion
+.idea
+cmake-build-debug
